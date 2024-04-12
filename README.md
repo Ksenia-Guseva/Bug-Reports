@@ -7,6 +7,7 @@
 [GK2](https://kseniaguseva1202.youtrack.cloud/issue/1112-20) 
 [GK3](https://kseniaguseva1202.youtrack.cloud/issue/1112-19) 
 [GK4](https://kseniaguseva1202.youtrack.cloud/issue/1112-9)
+
 2. Средний приоритет:
 
 [GK5](https://kseniaguseva1202.youtrack.cloud/issue/1112-2) 
